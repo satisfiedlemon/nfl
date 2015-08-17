@@ -23,7 +23,7 @@ if (login_check($mysqli) == true) {
 <head>
 
     <!-- Meta-Information -->
-    <title>ACME Inc.</title>
+    <title>NFL Survivor Pool</title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="description" content="ACME Inc.">
@@ -42,7 +42,7 @@ if (login_check($mysqli) == true) {
     <script type="text/JavaScript" src="js/forms.js"></script>
 
 </head>
-<body ng-app="tutorialWebApp">
+<body ng-app="nflWebApp">
 <!--[if lt IE 7]>
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
     your browser</a> to improve your experience.</p>
