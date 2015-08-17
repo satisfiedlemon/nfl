@@ -1,0 +1,37 @@
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+$mobile: 634px;
+
+$text-color: #000;
+
+$link-color: inherit;
+$link-decoration: none;
+$link-active-color: inherit;
+$link-active-decoration: underline;
+
+$nav-background-color: #ffef00;
+$nav-active-color: #000;
+$nav-link-color: #000;
+$nav-link-active-color: #ffef00;
+$nav-link-font-size: 20px;
+$subnav-link-color: #fff;
+$subnav-link-active-color: #ffef00;
+$subnav-link-font-size: 24px;
+$subnav-link-hover-color: #171717;
+
+$table-home-background: #171717;
+$table-border: 1px solid #ccc;
+$table-header-color: #fff;
+$table-header-background: #444;
+$table-header-alt-background: #000;
+$table-header-alt-font-color: #ffef00;
+$table-header-border: 1px solid #ccc;
+
+$table-subheader-color: #fff;
+$table-subheader-background: #555;
+
+$table-row-even-background: #ddd;
+$table-row-odd-background: #bbb;
+
+$average-background: #ccc;
+$average-color: #000;
